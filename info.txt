@@ -1,0 +1,3 @@
+你可以修改此提示信息，修改时请保留以下许可信息：
+
+本软件的Inno Setup 脚本由广西大学学生科技协会赵敬一提供，依据MIT协议开源。源代码见https://github.com/zhaojingyits/oem-information-loader。
